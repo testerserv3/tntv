@@ -1,3 +1,4 @@
 #EXTM3U
+#EXT-X-VERSION:3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="TN",Tunisna
 http://154.58.202.185:8000/play/a03m
