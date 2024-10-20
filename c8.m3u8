@@ -1,23 +1,3 @@
 #EXTM3U
-#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=50.000000,BANDWIDTH=1667072,CODECS="avc1.64001f,mp4a.40.2",NAME="480@60"
-https://live-b.cf.dmcdn.net/sec2(J4kff8xLuqi_9bpaywAJ_hLd1RyJW3iW2vYvHzANmWOn8IoGkvNFgI4xhfEwpUz2frs_aPjcUVyg5boW3PR_F-yLn5nSJm7fnjlAeM5W8omdA5A4D8VWgiCtP0sjniTF)/dm/3/x5gv5rr/d/live-480@60.m3u8#cell=lcfb
-#EXT-X-STREAM-INF:RESOLUTION=848x477,FRAME-RATE=50.000000,BANDWIDTH=1667072,CODECS="avc1.64001f,mp4a.40.2",NAME="480@60"
-https://live-c.cf.dmcdn.net/sec2(KFS-2tbQiQpzYorrySMB6nSSB6jKp1Q653FjVITIVGvftFyGbg3Zy8qrhTHcbeyZDVnmGdvjNvwhjaIt6m-8o9-z_Xx6zhKgmANv0On03RJY0JcAAEqmc7hbq9puKoKP)/dm/3/x5idx4k/d/live-480@60.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live-b.cf.dmcdn.net/sec2(J4kff8xLuqi_9bpaywAJ_hLd1RyJW3iW2vYvHzANmWOn8IoGkvNFgI4xhfEwpUz2frs_aPjcUVyg5boW3PR_F-yLn5nSJm7fnjlAeM5W8omdA5A4D8VWgiCtP0sjniTF)/dm/3/x5gv5rr/d/live-240.m3u8#cell=lcfb
-#EXT-X-STREAM-INF:RESOLUTION=320x180,FRAME-RATE=25.000000,BANDWIDTH=475136,CODECS="avc1.42000c,mp4a.40.5",NAME="240"
-https://live-c.cf.dmcdn.net/sec2(KFS-2tbQiQpzYorrySMB6nSSB6jKp1Q653FjVITIVGvftFyGbg3Zy8qrhTHcbeyZDVnmGdvjNvwhjaIt6m-8o9-z_Xx6zhKgmANv0On03RJY0JcAAEqmc7hbq9puKoKP)/dm/3/x5idx4k/d/live-240.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live-b.cf.dmcdn.net/sec2(J4kff8xLuqi_9bpaywAJ_hLd1RyJW3iW2vYvHzANmWOn8IoGkvNFgI4xhfEwpUz2frs_aPjcUVyg5boW3PR_F-yLn5nSJm7fnjlAeM5W8omdA5A4D8VWgiCtP0sjniTF)/dm/3/x5gv5rr/d/live-380.m3u8#cell=lcfb
-#EXT-X-STREAM-INF:RESOLUTION=512x288,FRAME-RATE=25.000000,BANDWIDTH=782336,CODECS="avc1.420015,mp4a.40.5",NAME="380"
-https://live-c.cf.dmcdn.net/sec2(KFS-2tbQiQpzYorrySMB6nSSB6jKp1Q653FjVITIVGvftFyGbg3Zy8qrhTHcbeyZDVnmGdvjNvwhjaIt6m-8o9-z_Xx6zhKgmANv0On03RJY0JcAAEqmc7hbq9puKoKP)/dm/3/x5idx4k/d/live-380.m3u8
 #EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=50.000000,BANDWIDTH=2691072,CODECS="avc1.640020,mp4a.40.2",NAME="720@60"
-https://live-b.cf.dmcdn.net/sec2(J4kff8xLuqi_9bpaywAJ_hLd1RyJW3iW2vYvHzANmWOn8IoGkvNFgI4xhfEwpUz2frs_aPjcUVyg5boW3PR_F-yLn5nSJm7fnjlAeM5W8omdA5A4D8VWgiCtP0sjniTF)/dm/3/x5gv5rr/d/live-720@60.m3u8#cell=lcfb
-#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=50.000000,BANDWIDTH=2691072,CODECS="avc1.640020,mp4a.40.2",NAME="720@60"
-https://live-c.cf.dmcdn.net/sec2(KFS-2tbQiQpzYorrySMB6nSSB6jKp1Q653FjVITIVGvftFyGbg3Zy8qrhTHcbeyZDVnmGdvjNvwhjaIt6m-8o9-z_Xx6zhKgmANv0On03RJY0JcAAEqmc7hbq9puKoKP)/dm/3/x5idx4k/d/live-720@60.m3u8
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=50.000000,BANDWIDTH=7811072,CODECS="avc1.64002a,mp4a.40.2",NAME="1080@60"
-https://live-b.cf.dmcdn.net/sec2(J4kff8xLuqi_9bpaywAJ_hLd1RyJW3iW2vYvHzANmWOn8IoGkvNFgI4xhfEwpUz2frs_aPjcUVyg5boW3PR_F-yLn5nSJm7fnjlAeM5W8omdA5A4D8VWgiCtP0sjniTF)/dm/3/x5gv5rr/d/live-1080@60.m3u8#cell=lcfb
-#EXT-X-STREAM-INF:RESOLUTION=1920x1080,FRAME-RATE=50.000000,BANDWIDTH=7811072,CODECS="avc1.64002a,mp4a.40.2",NAME="1080@60"
-https://live-c.cf.dmcdn.net/sec2(KFS-2tbQiQpzYorrySMB6nSSB6jKp1Q653FjVITIVGvftFyGbg3Zy8qrhTHcbeyZDVnmGdvjNvwhjaIt6m-8o9-z_Xx6zhKgmANv0On03RJY0JcAAEqmc7hbq9puKoKP)/dm/3/x5idx4k/d/live-1080@60.m3u8
-
-#Last refreshed on 20/10/2024 12:22:00 CEST.
+https://manifest.googlevideo.com:443/api/manifest/hls_playlist/expire/1729450031/ei/z_sUZ4PsM8qJvdIPvPDFqA4/ip/41.227.209.12/id/C3W2cyNn72E.50/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-bavc5aoxuuo-u0ol.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/54MbxVW88y_ciR6n1BkqjJ6EHxYPFWvLDnrGVEFfU0h-WcdJabXOcsDxorMnMMbPUw/vprv/1/playlist_type/DVR/initcwndbps/368750/met/1729428432,/mh/UJ/mm/44/mn/sn-bavc5aoxuuo-u0ol/ms/lva/mv/m/mvi/2/pl/19/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51312688/mt/1729428045/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAOXUwRJphycGS1Fl8skujaYqiuPlPt6NnOEUdccQUx7EAiEAlND1wULIeD-y60Wjm51ILj7wHey9oNZUCTpjwKB6Jug%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/ACJ0pHgwRgIhAI7ZXTGlKkyJiAaYxQVI2Xcbkz8fE4Ydexs6mc-LjxFnAiEA82kdcIogxFZwIgVyOS2J5N4O9n5IWh5tMU9YVWAZpao%3D/playlist/index.m3u8
