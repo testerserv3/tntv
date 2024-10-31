@@ -1,3 +1,5 @@
 #EXTM3U
-#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXTINF:10.0,
 https://new.cache-stream.workers.dev/stream/UCdvWVsmQBROkgcGzVep73oA/live.m3u8
