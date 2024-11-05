@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
+http://giptv94.lol:8789/play/live.php?mac=00:1A:79:4B:A4:0F&stream=4295&extension=m3u8
 #EXTINF:10.000000,
 http://kstv.us:8080/live/newboyt/2familys/47758.ts
 #EXTINF:10.000000,
